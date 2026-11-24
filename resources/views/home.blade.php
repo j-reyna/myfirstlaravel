@@ -7,7 +7,8 @@
     <title>home</title>
 </head>
 <body>
-    <h1 style="color: rgb(33, 33, 233)">This is the Homepage</h1>
+    <h1 style="color: pink">WELCOME</h1>
+    <h1 style="color: rgb(114, 114, 197)">This is the Homepage</h1>
     <a href="{{ route('home') }}">Home</a>
     <a href="{{ route('contact') }}">Contact</a>
     <a href="{{ route('about') }}">About Me</a>
